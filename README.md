@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 💻 B.Tech Computer Science undergraduate at **IMS Engineering College (AKTU)** building hands-on expertise in AI-powered full-stack development.
+- 💻 B.Tech Computer Science undergraduate at **IMS Engineering College,Ghaziabad (AKTU)** building hands-on expertise in AI-powered full-stack development.
 - 🧠 Passionate about integrating modern web ecosystems with **AI tools, LLMs, and intelligent data pipelines**.
 - 🛠️ Proficient in developing scalable backend systems using Python (Django, FastAPI) and JavaScript/Node.js, alongside robust SQL & NoSQL database architectures.
 - 🌱 Constantly exploring advanced machine learning paradigms, prompt engineering, and intelligent application design.
@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+
 
 ## 📊 GitHub Statistics
 
