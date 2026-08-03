@@ -61,8 +61,10 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadyadixit17-code&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadyadixit17-code&theme=radical" alt="GitHub Stats" width="95%" />
 </p>
+<br />
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aadyadixit17-code&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aadyadixit17-code&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aadyadixit17-code&theme=radical" alt="Most Committed Language" width="48%" />
 </p>
