@@ -21,8 +21,8 @@ I build web applications that combine intuitive user experiences, reliable backe
 - 💻 Building full-stack applications with **JavaScript, React.js, Node.js, and Express.js**.
 - 🤖 Exploring **AI integration, LLMs, and intelligent application development**.
 - ☁️ Developing practical skills in **Microsoft Azure, Terraform, Docker, Kubernetes, and Azure DevOps**.
-- 🔄 Learning infrastructure automation, CI/CD pipelines, cloud networking, and DevSecOps practices.
-- 🧩 Interested in connecting application development with scalable cloud infrastructure.
+- 🔄 Learning infrastructure automation, **CI/CD pipelines**, **cloud networking**, and **DevSecOps practices**.
+- 🧩 Interested in **connecting application** development with scalable **cloud infrastructure**.
 
 ---
 
@@ -94,6 +94,21 @@ Explore my repositories for more web development experiments, application featur
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=aadyadixit17-code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadyadixit17-code&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 </p>
+
+
+<p align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadyadixit17-code&theme=radical" alt="GitHub Stats" width="95%" />
+
+</p>
+<br />
+<p align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aadyadixit17-code&theme=radical" alt="Top Languages" width="48%" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aadyadixit17-code&theme=radical" alt="Most Committed Language" width="48%" />
+
+</p> 
 
 ## 🔥 Contribution Streak
 
