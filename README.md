@@ -1,79 +1,127 @@
-# aadyadixit17-code
-<h1 align="center">Hi 👋, I'm Aadya Dixit</h1>
-<h3 align="center">AI-Powered Full-Stack JavaScript Developer | B.Tech Computer Science Undergraduate</h3>
+# Hey, I'm Aadya Dixit 👋
 
-<p align="center">
-  <a href="mailto:aadyadixit17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/aadyadixit17" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/aadyadixit17-code" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://personalportfolio-phi-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"></a>
+### Full-Stack Developer | AI Enthusiast | Cloud & DevOps
+
+I build web applications that combine intuitive user experiences, reliable backend systems, and AI-powered capabilities. Alongside full-stack development, I'm developing hands-on skills in cloud infrastructure, containerization, Infrastructure as Code, and CI/CD automation.
+
+🎓 **B.Tech Computer Science Undergraduate (2027)**  
+📍 Ghaziabad, India
+
+<p align="left">
+  <a href="mailto:aadyadixit17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/aadyadixit17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/aadyadixit17-code"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://personalportfolio-phi-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 💻 B.Tech Computer Science undergraduate at **IMS Engineering College,Ghaziabad (AKTU)** building hands-on expertise in AI-powered full-stack development.
-- 🧠 Passionate about integrating modern web ecosystems with **AI tools, LLMs, and intelligent data pipelines**.
-- 🛠️ Proficient in developing scalable backend systems using Python (Django, FastAPI) and JavaScript/Node.js, alongside robust SQL & NoSQL database architectures.
-- 🌱 Constantly exploring advanced machine learning paradigms, prompt engineering, and intelligent application design.
-
----
-
-## 🛠️ Technical Skills
-
-- **Programming Languages:** Python, JavaScript, C++, HTML5, CSS3, SQL
-- **Frontend Development:** React.js, Bootstrap, Tailwind CSS
-- **Backend & APIs:** Node.js, Express, Django, Flask, FastAPI, REST APIs
-- **Databases & Cloud:** MongoDB, MySQL, PostgreSQL, AWS (S3/EC2)
-- **AI & Data Engineering:** OpenAI API, LangChain, Hugging Face, NumPy, Machine Learning
-- **Tools & Platforms:** Git, GitHub, VS Code, Postman
+- 💻 Building full-stack applications with **JavaScript, React.js, Node.js, and Express.js**.
+- 🤖 Exploring **AI integration, LLMs, and intelligent application development**.
+- ☁️ Developing practical skills in **Microsoft Azure, Terraform, Docker, Kubernetes, and Azure DevOps**.
+- 🔄 Learning infrastructure automation, CI/CD pipelines, cloud networking, and DevSecOps practices.
+- 🧩 Interested in connecting application development with scalable cloud infrastructure.
 
 ---
 
-## 💼 Featured Projects
+## 🧰 Tech Stack
 
-### 1. Personal Developer Portfolio | `System & UI Engineer`
-- Built and deployed a responsive, high-performance web portfolio highlighting core software projects and professional software engineering competencies.
-- Utilized clean semantic structure with HTML5, modern layout styling with CSS3, and user-interactivity scripts with JavaScript to maximize cross-compatibility, improving rendering speed by 20%.
+### Languages & Development
 
-### 2. Volunteer Registration System | `Full-Stack Developer`
-- Engineered a scalable full-stack web application using FastAPI and Python to streamline and automate organizational event-volunteer coordination pipelines.
-- Developed structured relational database schemas using MySQL to manage 1,000+ high-throughput registration records, optimizing execution times and reducing retrieval time by 15%.
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,cpp,html,css,react,nodejs,express,django,fastapi" alt="Programming and development technologies"/>
+</p>
 
-### 3. Smart Material Construction Optimizer | `AI & Resource Engineering`
-- Engineered an intelligent automated decision-support system to optimize raw material logistical selections and resource allocation strategies for commercial construction lifecycles.
-- Developed predictive data pipelines and machine learning algorithms analyzing complex multi-variable constraints (cost, durability, availability, and sustainability), achieving 18% better accuracy.
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,vscode,postman" alt="Databases and development tools"/>
+</p>
+
+### Cloud, DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,bash,githubactions" alt="Cloud and DevOps technologies"/>
+</p>
+
+**Also exploring:** Azure DevOps Pipelines, Azure CAF, Landing Zones, Hub-and-Spoke Architecture, Azure Networking, Microsoft Entra ID, Terraform Modules, Helm, Argo CD, GitOps, Prometheus, Grafana, and DevSecOps scanning tools.
+
+### AI & Data
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🚀 Featured Projects
 
-- **Samagra Techfest** – Organized by ITS College, Mohan Nagar
-- **Hack-a-Thon Techfest** – Coordinated by IMSUC, Ghaziabad
-- **SDGI Hackathon** – Organized by Sunderdeep Global University
-- **Entrepreneurial Quiz Competition** – IMSEC, Ghaziabad
+### 🔹 [SkillSphere](https://github.com/aadyadixit17-code/skillsphere)
+**AI-Powered Freelance & Skill-Matching Platform**
+
+A full-stack MERN application designed to connect clients with freelancers in a hyperlocal environment, featuring AI-powered job matching, milestone-based payments, and reputation scoring.
+
+`JavaScript` `React.js` `Node.js` `Express.js` `MongoDB` `AI Integration`
+
+### 🔹 [AssetFlow](https://github.com/aadyadixit17-code/AssetFlow)
+**Enterprise Asset & Resource Management**
+
+A web-based asset and resource management system designed to centralize inventory tracking, resource allocation, and shared-space management.
+
+`JavaScript` `Full-Stack Development` `Database Management`
+
+### 🔹 [Personal Portfolio](https://github.com/aadyadixit17-code/Personal-Portfolio-Website)
+**Personal Developer Portfolio**
+
+A responsive portfolio showcasing my development work, technical interests, and projects through a modern interface with interactive animations.
+
+`React.js` `JavaScript` `CSS3`
+
+### 🔹 [Explore More Projects](https://github.com/aadyadixit17-code?tab=repositories)
+
+Explore my repositories for more web development experiments, application features, and technical practice.
 
 ---
-
-
 
 ## 📊 GitHub Statistics
 
-
-
 <p align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadyadixit17-code&theme=radical" alt="GitHub Stats" width="95%" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aadyadixit17-code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadyadixit17-code&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 </p>
-<br />
+
+## 🔥 Contribution Streak
+
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadyadixit17-code&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aadyadixit17-code&theme=radical" alt="Top Languages" width="48%" />
+## 📈 Contribution Activity
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aadyadixit17-code&theme=radical" alt="Most Committed Language" width="48%" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadyadixit17-code&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+</p>
 
-</p> 
+---
 
+## 🎯 Currently Focused On
 
+- Building feature-rich full-stack applications.
+- Integrating AI capabilities into practical software projects.
+- Strengthening Azure cloud architecture and infrastructure automation.
+- Practising Docker, Kubernetes, Terraform, and CI/CD workflows.
+
+---
+
+<p align="center">
+  <b>Build. Learn. Automate. Improve. 🚀</b>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile!</i>
+</p>
