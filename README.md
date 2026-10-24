@@ -107,7 +107,24 @@ Explore my repositories for more web development experiments, application featur
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadyadixit17-code&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
 </p>
 
----
+--- 
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadyadixit17-code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadyadixit17-code&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aadyadixit17-code&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="70%" />
+</p>
+
+📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadyadixit17-code&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph" />
+</p>
 
 ## 🎯 Currently Focused On
 
