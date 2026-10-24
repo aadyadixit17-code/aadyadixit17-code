@@ -88,6 +88,10 @@ Explore my repositories for more web development experiments, application featur
 
 ---
 
+
+## 📄 View My Resume
+[![Resume](https://img.shields.io/badge/📄_View_My_Resume-Download-blue?style=for-the-badge)](./RESUME.pdf)
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -96,19 +100,7 @@ Explore my repositories for more web development experiments, application featur
 </p>
 
 
-<p align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadyadixit17-code&theme=radical" alt="GitHub Stats" width="95%" />
-
-</p>
-<br />
-<p align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aadyadixit17-code&theme=radical" alt="Top Languages" width="48%" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aadyadixit17-code&theme=radical" alt="Most Committed Language" width="48%" />
-
-</p> 
 
 ## 🔥 Contribution Streak
 
