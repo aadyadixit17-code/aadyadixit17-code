@@ -103,19 +103,15 @@ Explore my repositories for more web development experiments, application featur
 
 ## 📈 Contribution Activity
 
-## 📈 Contribution Activity
-
 <p align="center">
-  <a href="https://github.com/aadyadixit17-code">
+  <a href="https://github.com/qkitzero/github-contribution-growth-graph">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=aadyadixit17-code&theme=tokyo-night&hide_border=true&area=true"
-      alt="Aadya's GitHub Contribution Activity Graph"
+      src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=aadyadixit17-code&theme=dark&size=large"
+      alt="Aadya's GitHub Contribution Growth Graph"
       width="100%"
     />
   </a>
 </p>
-
---- 
 
 
 
